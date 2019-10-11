@@ -6,7 +6,7 @@
     <artifactId>sample_modular</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    
+    <name>Simple Maven module example</name>
    <dependencies>
      <dependency>
         <groupId>com.github.User</groupId>
